@@ -1,4 +1,5 @@
 # Fix the column types before reading.
+
 colCl <- c("character","character","numeric","numeric","numeric",
            "numeric","numeric","numeric","numeric")
 
